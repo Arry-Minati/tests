@@ -6,9 +6,8 @@ namespace c_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("enter username:");
-            string username = Console.ReadLine();
-            Console.WriteLine("username is: " + username);
+            Console.WriteLine("Hello World!");
+            Console.ReadKey();
         }
     }
 }
